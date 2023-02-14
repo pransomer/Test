@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style/index.css" media="all">
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="header">
+                <div class="title">
+                    <div class="site_name">
+                        <h1><a href="/">我的博客</a></h1>
+                    </div>
+                    <div class="subtitle">
+                        <h4>不忘初心，方得始终</h4>
+                    </div>
+                </div>
+                <div class="header-img">
+                    <p><img src="img/original_bmlv_6dfc000000061e80.jpg" alt=""></p>
+                    <p><img src="img/test2.webp" alt=""></p>
+                </div>
+                <div id="nav">
+                    <ul>
+                        <li><a class="active" href="#">HOME</a></li>
+                        <li><a href="#">关于我</a></li>
+                        <li><a href="#">站点地图</a></li>
+                        <li><a href="#">PHP 的使用笔记</a></li>
+                        <li><a href="#">LAMP/LEMP配置经验</a></li>
+                        <li><a href="#">自定义WORDPRESS</a></li>
+                    </ul>
+                </div>
+            </div> <!-- #header -->
+            <div id="main_wrapper">
+                <div id="main">
+                    <div class="article featured">
+                        <p class="featured_article">Featured Article</p>
+                        <h3 class="art_header"><a href="#">VirtualBox 安装红旗Linux桌面版 V11</a></h3>
+                        <p class="excerpt">国产红旗操作系统终于在中国人民解放军建军 94 周年之际更新了！“红旗Linux桌面版V11”基于 Debian 10
+                            操作系统，里面的软件版本也是比较新的。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">安装与配置经验</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">Ubuntu18.04</a>,
+                                <a href="#">VirtualBox</a>,
+                                <a href="#">国产操作系统</a>,
+                                <a href="#">红旗Linux</a>,
+                                <a href="#1">虚拟机</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article featured">
+                        <p class="featured_article">Featured Article</p>
+                        <h3 class="art_header"><a href="#">VirtualBox 安装红旗Linux桌面版 V11</a></h3>
+                        <p class="excerpt">国产红旗操作系统终于在中国人民解放军建军 94 周年之际更新了！“红旗Linux桌面版V11”基于 Debian 10
+                            操作系统，里面的软件版本也是比较新的。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">安装与配置经验</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">Ubuntu18.04</a>,
+                                <a href="#">VirtualBox</a>,
+                                <a href="#">国产操作系统</a>,
+                                <a href="#">红旗Linux</a>,
+                                <a href="#1">虚拟机</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article featured">
+                        <p class="featured_article">Featured Article</p>
+                        <h3 class="art_header"><a href="#">VirtualBox 安装红旗Linux桌面版 V11</a></h3>
+                        <p class="excerpt">国产红旗操作系统终于在中国人民解放军建军 94 周年之际更新了！“红旗Linux桌面版V11”基于 Debian 10
+                            操作系统，里面的软件版本也是比较新的。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">安装与配置经验</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">Ubuntu18.04</a>,
+                                <a href="#">VirtualBox</a>,
+                                <a href="#">国产操作系统</a>,
+                                <a href="#">红旗Linux</a>,
+                                <a href="#1">虚拟机</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article featured">
+                        <p class="featured_article">Featured Article</p>
+                        <h3 class="art_header"><a href="#">VirtualBox 安装红旗Linux桌面版 V11</a></h3>
+                        <p class="excerpt">国产红旗操作系统终于在中国人民解放军建军 94 周年之际更新了！“红旗Linux桌面版V11”基于 Debian 10
+                            操作系统，里面的软件版本也是比较新的。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">安装与配置经验</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">Ubuntu18.04</a>,
+                                <a href="#">VirtualBox</a>,
+                                <a href="#">国产操作系统</a>,
+                                <a href="#">红旗Linux</a>,
+                                <a href="#1">虚拟机</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 MySQL 启动时的警告 “TIMESTAMP with implicit DEFAULT value is
+                                deprecated. ”</a></h3>
+                        <p class="excerpt">在 MySQL 服务器启动时，日志出现以下的警告： [Warning] TIMESTAMP with implicit DEFAULT value is
+                            deprecated. Please use –explicit_defaults_for_timestamp server option (see documentation for
+                            more details)</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a>, <a
+                                    href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a
+                                    href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>
+                            </div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>,
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 MySQL 启动时的警告 “TIMESTAMP with implicit DEFAULT value is
+                                deprecated. ”</a></h3>
+                        <p class="excerpt">在 MySQL 服务器启动时，日志出现以下的警告： [Warning] TIMESTAMP with implicit DEFAULT value is
+                            deprecated. Please use –explicit_defaults_for_timestamp server option (see documentation for
+                            more details)</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 Deepin 微信无法发送图片问题</a></h3>
+                        <p class="excerpt">解决 Ubuntu 下 微信（Deepin-Wechat）无法发送图片这个问题。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 MySQL 启动时的警告 “TIMESTAMP with implicit DEFAULT value is
+                                deprecated. ”</a></h3>
+                        <p class="excerpt">在 MySQL 服务器启动时，日志出现以下的警告： [Warning] TIMESTAMP with implicit DEFAULT value is
+                            deprecated. Please use –explicit_defaults_for_timestamp server option (see documentation for
+                            more details)</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a>, <a
+                                    href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a
+                                    href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>
+                            </div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>,
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 MySQL 启动时的警告 “TIMESTAMP with implicit DEFAULT value is
+                                deprecated. ”</a></h3>
+                        <p class="excerpt">在 MySQL 服务器启动时，日志出现以下的警告： [Warning] TIMESTAMP with implicit DEFAULT value is
+                            deprecated. Please use –explicit_defaults_for_timestamp server option (see documentation for
+                            more details)</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 Deepin 微信无法发送图片问题</a></h3>
+                        <p class="excerpt">解决 Ubuntu 下 微信（Deepin-Wechat）无法发送图片这个问题。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 MySQL 启动时的警告 “TIMESTAMP with implicit DEFAULT value is
+                                deprecated. ”</a></h3>
+                        <p class="excerpt">在 MySQL 服务器启动时，日志出现以下的警告： [Warning] TIMESTAMP with implicit DEFAULT value is
+                            deprecated. Please use –explicit_defaults_for_timestamp server option (see documentation for
+                            more details)</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a>, <a
+                                    href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a
+                                    href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>,<a href="#">故障排除和错误解决</a>
+                            </div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>,
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 MySQL 启动时的警告 “TIMESTAMP with implicit DEFAULT value is
+                                deprecated. ”</a></h3>
+                        <p class="excerpt">在 MySQL 服务器启动时，日志出现以下的警告： [Warning] TIMESTAMP with implicit DEFAULT value is
+                            deprecated. Please use –explicit_defaults_for_timestamp server option (see documentation for
+                            more details)</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">解决 Deepin 微信无法发送图片问题</a></h3>
+                        <p class="excerpt">解决 Ubuntu 下 微信（Deepin-Wechat）无法发送图片这个问题。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <h3 class="art_header"><a href="#">修复 Ubuntu 20.04 的 UEFI 引导</a></h3>
+                        <p class="excerpt">本文主要写如何修复 Ubuntu 20.04 的 UEFI grub 启动引导。 前言 原本本人物理机器上安装有 Ubuntu 20.04
+                            系统，今天想在同一物理机器给U盘安装一个 Ubuntu Kylin，它们同是 UEFI 引导启动，当安装完成 Kylin ，启动的时候，就出现问题，原因是 Kylin 的
+                            EFI/ubuntu 目录覆盖掉原有的 Ubuntu 20.04 的 EFI 目录，在本人删除 Kylin 后，进入不到 Ubuntu 20.04, 启动程序给带入了 grub
+                            的界面（如下图）。由于需要重现当时的环境，现在 Ubuntu 20.04 下用 VirtualBox 虚拟机做这件事。</p>
+                        <div class="entry_meta">
+                            <div class="entry_meta_cate">Category: <a href="#">故障排除和错误解决</a></div>
+                            <div class="entry_meta_tag">Tags:
+                                <a href="#">mysql</a>,
+                                <a href="#">Linux</a>,
+                                <a href="#">Hello</a>,
+                                <a href="#">World</a>,
+                                <a href="#">TellTellTell</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pagination_wrapper"><a href="#">&larr; Older posts</a></div>
+                </div>
+                <div id="widgets">
+                    <div class="widget wd1">
+                        <h3 class="wd_title">站内搜索</h3>
+                        <div class="wd_content">
+                            <div id="search_wrapper">
+                                <input class="search_keyword" type="text" placeholder="请输入搜索关键词" name="search_keyword">
+                                <div id="search_options_icon" class="search_icon">
+
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22"
+                                        height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+                                        xml:space="preserve" class="">
+                                        <polygon transform="rotate(90 256 256)"
+                                            points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 ">
+                                        </polygon>
+                                    </svg>
+                                </div>
+                                <div id="search_do_icon" class="search_icon">
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22"
+                                        height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+                                        xml:space="preserve" class="">
+                                        <path d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+                    C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+                    c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+                    c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+                    z" class=""></path>
+                                    </svg>
+                                </div>
+                                <div id="search_options" hidden>
+                                    <ul>
+                                        <li class="search-options-li" hidden><label class="search-label"
+                                                for="Exact-matches-only"><input type="checkbox"
+                                                    name="Exact-matches-only"
+                                                    class="search-input">Exact-matches-only</label></li>
+                                        <li class="search-options-li" hidden><label class="search-label"
+                                                for="Search-in-title"><input type="checkbox" name="Search-in-title"
+                                                    class="search-input" checked="checked">Search-in-title</label></li>
+                                        <li class="search-options-li" hidden><label class="search-label"
+                                                for="Search-in-content"><input type="checkbox" name="Search-in-content"
+                                                    class="search-input" checked="checked">Search-in-content</label>
+                                        </li>
+                                    </ul>
+                                </div> <!-- search_options -->
+                            </div> <!-- #search_wrapper -->
+                        </div> <!-- .wd_content -->
+                    </div> <!-- .wd1 -->
+                    <div class="widget wd2">
+                        <h3 class="wd_title">访问量排行</h3>
+                        <div class="wd_content">
+                            <ul>
+                                <li class="wd_title_list">
+                                    <a href="#">[Windows10]WSL2 下让 Ubuntu20.04 安装 Gnome 桌面 <span>(6,286)</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">[Windows10]WSL2 下让 Ubuntu20.04 安装 Gnome 桌面 <span>(6,286)</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">[Windows10]WSL2 下让 Ubuntu20.04 安装 Gnome 桌面 <span>(6,286)</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">[Windows10]WSL2 下让 Ubuntu20.04 安装 Gnome 桌面 <span>(6,286)</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">[C语言][PTA] 7-11 分段计算居民水费 <span>(2,686)</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> <!-- .wd2 -->
+                    <div class="widget wd3">
+                        <h3 class="wd_title">最新文章</h3>
+                        <div class="wd_content">
+                            <ul>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">MySQL 5.6 解决启动时的错误 “Buffered warning: Changed limits:
+                                        max_open_files:
+                                        1024 (requested 5000)” <span>June 4, 2021</span></a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        解决 Deepin 微信无法发送图片问题 <span>April 14, 2021</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> <!-- .wd3 -->
+                    <div class="widget wd4">
+                        <h3 class="wd_title">所有分类</h3>
+                        <div class="wd_content">
+                            <ul>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#">
+                                        故障排除和错误解决 <span>(31)</span>
+                                    </a>
+                                </li>
+                                <li class="wd_title_list">
+                                    <a href="#1">
+                                        编程语言 <span>(31)</span> --第一层
+                                    </a>
+                                    <ul>
+                                        <li class="wd_title_list_level_nest">
+                                            <a href="#2">OJ及其他编程题 <span>(83)</span> --第二层</a>
+                                            <ul>
+                                                <li class="wd_title_list_level_nest"><a href="#3">在线判题
+                                                        <span>(60)</span> --第三层</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="wd_title_list_level_2">
+                                            <a href="#">算法 <span>(8)</span></a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> <!-- .wd4 -->
+                </div> <!-- #widgets -->
+            </div> <!-- main_wrapper -->
+            <div id="footer">
+                <div class="footer_wrapper">
+                    <p>Copyright © 2022 By <a href="/" class="homepage">我的博客</a></p>
+                    <p><a href="#" class="beian">ICP备2022******号</a></p>
+                    <p><a href="#" class="beian"><span></span>公网安备 **************号</a></p>
+                </div>
+            </div> <!-- #footer -->
+        </div> <!-- #container -->
+        <script src="js/index.js"></script>
+    </body>
+
+</html>

@@ -20,3 +20,4 @@ function print_global_var() {
 print_global_var();
 
 // var_dump($GLOBALS);
+// var_dump($GLOBALS);

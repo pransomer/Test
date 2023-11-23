@@ -1,22 +1,43 @@
 <?php
-/*================================================================
-*   Copyright (C) 2023 程序知路. All rights reserved.
-*   
-*   Filename      : test4.php
-*   Author        : 程序知路
-*   E-Mail        : admin@icxzl.com
-*   Create time   : 2023-02-04 23:22
-*   Last modified : 2023-02-04 23:22
-*   Description   :
-================================================================*/
 
+phpinfo();
 
-function abc($a = 1, $b) {
-    echo 'ok';
+?>
+<?php echo 'ok';  ?>
+
+<?php
+if (true){
+    phpinfo();
 }
 
+if (false){ echo 'dog'; }
 
-abc('1', '2');
+if (true) {
+    echo 'ok';
+}
+if (true) { }
+?>
 
+<? echo PHP_EOL; ?>
 
+<?
+    echo 'ok';
+    phpinfo();
 
+?>
+<?php
+    if (true) {
+        echo 'ok';
+        if (true) {echo 'inner';}
+    }
+?>
+
+<?
+    if (true) {
+        echo 'ok';
+        if (true) {echo 'inner';}
+    }
+
+?>
+<? echo 'ok';  ?>
+<?php
